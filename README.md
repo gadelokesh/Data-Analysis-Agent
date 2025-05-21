@@ -54,4 +54,4 @@ streamlit run app.py
 
 
 ## Contributors
-Developed by **Darshanikanta** with insights from multiple AI models including ChatGPT, DeepSeek, Claude, and Grok.
+Developed by **L** with insights from multiple AI models including ChatGPT, DeepSeek, Claude, and Grok.
